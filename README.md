@@ -8,6 +8,7 @@
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
 ![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
+![Alt text]([https://raw.githubusercontent.com/username/repository/main/image.png](https://github.com/aziz-ahmed16/Library-Management-System/blob/main/library.jpg?raw=true))
 
 ## Objectives
 
@@ -20,7 +21,6 @@ This project demonstrates the implementation of a Library Management System usin
 
 ### 1. Database Setup
 ![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
-![Alt text]https://github.com/aziz-ahmed16/Library-Management-System/blob/main/library.jpg?raw=true
 
 - **Database Creation**: Created a database named `library_management`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
