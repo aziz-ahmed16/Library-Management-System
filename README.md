@@ -242,7 +242,7 @@ JOIN employees e2
 on b.manager_id = e2.emp_id;
 ```
 
-Task 11. **Create a Table of Books with Rental Price Above a Certain Threshold**:
+- **Task 11 : Create a Table of Books with Rental Price Above a Certain Threshold**:
 ```sql
 CREATE TABLE books_price_greater_than_seven AS
 SELECT * 
@@ -250,7 +250,7 @@ FROM books
 WHERE rental_price > 7;
 ```
 
-Task 12: **Retrieve the List of Books Not Yet Returned**
+-  **Task 12 : Retrieve the List of Books Not Yet Returned**:
 ```sql
 SELECT * 
 FROM issued_status iss
